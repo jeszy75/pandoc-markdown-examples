@@ -49,7 +49,7 @@ Lists
 Code blocks
 -----------
 
-Some ASCII art create with [FIGlet](http://www.figlet.org/):
+Some ASCII art created with [FIGlet](http://www.figlet.org/):
 ```
  __  __            _       _
 |  \/  | __ _ _ __| | ____| | _____      ___ __
