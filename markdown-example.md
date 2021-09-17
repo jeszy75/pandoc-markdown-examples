@@ -149,10 +149,10 @@ condimentum
 molestie  
 lobortis.
 
-Special characters
-------------------
+Characters
+----------
 
-HTML entity references and numeric character references can be used: &euro;,
+HTML entity references and numeric character references can be used to refer to Unicode characters: &euro;,
 &copy;, &#x263A;, &#x2026;.
 
 Special characters can be escaped: \< \> \[ \] \( \) \\ \$
