@@ -35,7 +35,7 @@ flowchart TD
     B -->|No| D[fa:fa-check No problem]
     B -->|Yes| E[fa:fa-spray-can WD-40]
     C -->|Yes| F[fa:fa-check No problem]
-   C -->|No| G[fa:fa-tape Duct tape]
+    C -->|No| G[fa:fa-tape Duct tape]
 ```
 
 ### UML Class Diagram
