@@ -40,4 +40,19 @@ flowchart TD
 
 ### UML Class Diagram
 
-TODO
+```mermaid
+classDiagram
+    class LegoSet {
+        +number: String
+        +name: String
+        +year: int
+        +pieces: int
+    }
+    class Theme {
+        +id: int
+        +name: String
+        +startYear: int
+        +endYear: int
+    }
+    LegoSet "*" --> "1" Theme
+```
