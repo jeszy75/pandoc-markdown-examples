@@ -41,4 +41,3 @@ References
 ==========
 
 Further information: <https://pandoc.org/MANUAL.html>
-

@@ -164,4 +164,3 @@ Inline math: $\int_{0}^{\pi} \sin x \, dx = 2$
 
 Display math:
 $$\int_{0}^{\pi} \sin x \, dx = 2$$
-

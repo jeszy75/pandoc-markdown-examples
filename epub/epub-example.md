@@ -22,4 +22,3 @@ References
 ==========
 
 Further information: <https://pandoc.org/epub.html>
-
