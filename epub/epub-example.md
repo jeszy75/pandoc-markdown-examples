@@ -14,7 +14,7 @@ Chapter 2
 
 Sed ut mollis leo. Sed ultricies in magna nec egestas. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ac interdum turpis. Sed et nulla ac erat hendrerit egestas ut at lectus. Fusce non dapibus neque.
 
-![Placeholder image](http://placekitten.com/240/240 "Placeholder image")
+![Placeholder image](https://placekitten.com/240/240 "Placeholder image")
 
 Vivamus consectetur arcu id quam ullamcorper, in consectetur erat semper. Pellentesque facilisis ullamcorper mauris, ac dictum metus condimentum auctor. In sagittis bibendum velit at lobortis. Duis fermentum suscipit eros vitae ornare. Fusce eros metus, ornare vel accumsan a, bibendum ac turpis. Vestibulum in elit ut ante accumsan fringilla sit amet at est. In pulvinar justo urna. Suspendisse purus purus, vehicula et aliquam scelerisque, rhoncus congue sapien. Quisque vitae viverra enim. Curabitur in ultrices nulla. Nulla eu mi a lorem cursus vehicula ut eu magna.
 
