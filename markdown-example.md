@@ -1,8 +1,10 @@
-Block level elements
-====================
+Markdown Example
+================
 
-Paragraphs
-----------
+Block level elements
+--------------------
+
+### Paragraphs
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut nunc
 vitae magna blandit euismod. Nullam luctus molestie commodo. Aliquam ac
@@ -17,10 +19,9 @@ lectus vel tellus cursus consectetur. Nullam interdum convallis elementum.
 Donec adipiscing laoreet massa  quis faucibus. Vivamus suscipit dignissim
 quam ac sodales.
 
-Lists
------
+### Lists
 
-### Bulleted lists
+#### Bulleted lists
 
 * Ut vitae magna sed metus consectetur consequat at et nibh.
 * Nam quis libero ante, hendrerit cursus velit.
@@ -35,7 +36,7 @@ Lists
 * Mauris sit amet quam nisi, non congue odio.
 * Nam commodo elit vitae urna blandit aliquam.
 
-### Numbered lists
+#### Numbered lists
 
 1. Praesent ut arcu purus, et malesuada sem.
 1. Cras condimentum sem id sem mattis fermentum.
@@ -46,8 +47,7 @@ Lists
     1. Aliquam lacinia interdum purus, at sagittis arcu scelerisque in.
 1. In pharetra quam id erat tempor molestie.
 
-Code blocks
------------
+### Code blocks
 
 Some ASCII art created with [FIGlet](http://www.figlet.org/):
 ```
@@ -58,8 +58,7 @@ Some ASCII art created with [FIGlet](http://www.figlet.org/):
 |_|  |_|\__,_|_|  |_|\_\__,_|\___/ \_/\_/ |_| |_|
 ```
 
-Code blocks with a language name
---------------------------------
+### Code blocks with a language name
 
 Some Java code:
 ```java
@@ -70,16 +69,14 @@ public class Hello {
 }
 ```
 
-Tables
-------
+### Tables
 
 | Left-justified column | Centered column  | Right-justified column |
 |-----------------------|:----------------:|-----------------------:|
 | Lorem ipsum           | Nulla in sapien  | Vestibulum qui         |
 | Phasellus vestibulum  | Integer eu lorem | Duis sit amet          |
 
-Blockquotes
------------
+### Blockquotes
 
 > Sed sit amet nibh id urna fringilla hendrerit. Suspendisse aliquam lectus
 > non quam aliquet posuere. Etiam quis risus vel ante gravida consequat.
@@ -88,8 +85,7 @@ Blockquotes
 > luctus. Nullam adipiscing commodo lorem, sed varius dolor faucibus non. Ut
 > scelerisque dignissim pellentesque.
 
-Thematic breaks
----------------
+### Thematic breaks
 
 Vestibulum vitae est quis quam vehicula cursus ut eu orci. Proin nec dapibus
 dui. Quisque massa lectus, pellentesque eget adipiscing dictum, aliquam quis
@@ -105,15 +101,13 @@ Pellentesque vitae dui mauris. Morbi pharetra nisl a nunc cursus luctus.
 Suspendisse gravida tortor eget erat tincidunt ultrices.
 
 Inline elements
-===============
+---------------
 
-Code spans
-----------
+### Code spans
 
 The `printf()` function is so cool.
 
-Emphasis
---------
+### Emphasis
 
 The words _foobar_ and *wubble* are emphasized in this sentence.
 
@@ -121,8 +115,7 @@ The words __foobar__ and **wubble** have strong emphasis in this sentence.
 
 ___Emphasis___ and ***strong emphasis*** can be nested as shown here.
 
-Links
------
+### Links
 
 Inline link: [CommonMark Spec](https://spec.commonmark.org/current/ "CommonMark Spec")
 
@@ -132,8 +125,7 @@ Automatic links: <https://spec.commonmark.org/current/>, <jeszenszky.peter@inf.u
 
 [commonmark-spec]: https://spec.commonmark.org/current/ "CommonMark Spec"
 
-Images
-------
+### Images
 
 Inline image: ![Placeholder image](http://placekitten.com/240/240 "Placeholder image")
 
@@ -141,16 +133,14 @@ Reference-style image: ![Placeholder image][placeholder-image]
 
 [placeholder-image]: http://placekitten.com/240/240 "Placeholder image"
 
-Hard line breaks
-----------------
+### Hard line breaks
 
 Cras  
 condimentum  
 molestie  
 lobortis.
 
-Characters
-----------
+### Characters
 
 HTML entity references and numeric character references can be used to refer to Unicode characters: &euro;,
 &copy;, &#x263A;, &#x2026;.
@@ -158,7 +148,7 @@ HTML entity references and numeric character references can be used to refer to 
 Special characters can be escaped: \< \> \[ \] \( \) \\ \$
 
 Math
-====
+----
 
 Inline math: $\int_{0}^{\pi} \sin x \, dx = 2$
 
