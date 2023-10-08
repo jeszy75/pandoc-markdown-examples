@@ -29,10 +29,10 @@ quam ac sodales.
   egestas. Aenean eros elit, cursus vel pharetra tincidunt, consequat eget
   elit. Donec sollicitudin, sapien in varius pretium, risus erat blandit
   sem, at vulputate mi libero ut mauris.
-    * Pellentesque fermentum aliquet lorem, sit amet hendrerit diam pharetra at.
-        * Morbi ac elit eget lorem luctus lobortis.
-            * Vivamus non eros a justo malesuada tempor.
-        * Nam aliquet nulla nec ligula condimentum et molestie nibh blandit.
+  * Pellentesque fermentum aliquet lorem, sit amet hendrerit diam pharetra at.
+    * Morbi ac elit eget lorem luctus lobortis.
+      * Vivamus non eros a justo malesuada tempor.
+    * Nam aliquet nulla nec ligula condimentum et molestie nibh blandit.
 * Mauris sit amet quam nisi, non congue odio.
 * Nam commodo elit vitae urna blandit aliquam.
 
