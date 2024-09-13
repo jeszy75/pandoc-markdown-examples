@@ -127,11 +127,11 @@ Automatic links: <https://spec.commonmark.org/current/>, <jeszenszky.peter@inf.u
 
 ### Images
 
-Inline image: ![Placeholder image](http://placekitten.com/240/240 "Placeholder image")
+Inline image: ![Placeholder image](https://placecats.com/240/240 "Placeholder image")
 
 Reference-style image: ![Placeholder image][placeholder-image]
 
-[placeholder-image]: http://placekitten.com/240/240 "Placeholder image"
+[placeholder-image]: https://placecats.com/240/240 "Placeholder image"
 
 ### Hard line breaks
 
